@@ -1,18 +1,26 @@
 # Hi there, I'm 朱凯 (Zhu Kai) 👋
 
-## 🚀 关于我 (The Great Return)
-- **资深前端工程师**：拥有 8 年实战经验，深耕前端领域。
-- **现状**：自 2025 年后期起正式回归 GitHub，开启“数字资产复活计划”。
-- **目标**：正在向全栈架构师转型，并计划在 37 岁时开启国际化职业生涯。
+## 🚀 关于我 / About Me / 自己紹介
+- **资深前端工程师 (Senior Front-end Engineer)**: 8年开发经验 / 8 years of experience / 8年の開発経験。
+- **现状 (Status)**: 2025年后期回归 GitHub / Returned to GitHub in late 2025 / 2025年後半にGitHubへ復帰。
+- **目标 (Goal)**: 37岁开启国际化职业生涯（锁定日本及其他发达国家） / Aiming for an international career at 37 (targeting Japan and other developed countries) / 37歳で国際的なキャリアを開始（日本および他の先進国をターゲット）。
 
-## 📖 消失的三年 (The "Lost Years" 2022-2024)
-我的 GitHub 贡献墙曾一度变暗，但这并不是因为我停止了编码，而是因为一个“有趣的 Bug”：我不小心将 `github.com` 的官方邮件域名拉入了黑名单，导致长达三年的登录困境。
+---
 
-2025 年，我通过 **AI (Gemini) 图像分析** 深度排查邮件设置，终于找回了这个珍贵的大号。这个故事证明了作为一名工程师，我拥有**极强的排障韧性**和**永不言弃的精神**。
+## 📖 消失的三年 / The Lost Years / 空白の3年間 (2022-2024)
+- **中文**: 我的 GitHub 贡献墙曾一度变暗，是因为我不小心将 `github.com` 的邮件域名拉入了黑名单。2025 年，我通过 AI (Gemini) 图像分析找回了这个账号。这证明了我作为工程师的**排障韧性**。
+- **English**: My contribution graph went dark because I accidentally blacklisted `github.com` emails. In 2025, I used AI (Gemini) image analysis to debug and recover this account. This proves my **resilience in troubleshooting**.
+- **日本語**: 以前、誤って `github.com` のドメインをメールのブラックリストに登録してしまい、GitHubの更新が止まっていました。2025年にAI（Gemini）の画像解析を駆使してこのアカウントを復旧させました。これはエンジニアとしての私の**問題解決能力と粘り強さ**の証明です。
 
-## 🛠 我正在建设的内容
-- **Daily Insights**：记录每日技术心得、Bug 避坑指南和行业思考。
-- **Toolbox**：分享在工作中积累的实用 IT 小工具。
-- **Journey to 37**：记录转型全栈（Go/Docker）及英语提升的每一步。
+---
+
+## 🛠 我正在建设的内容 / What I'm Building / 現在取り組んでいること
+1. **Daily Insights**: 技术心得与 Bug 避坑指南 / Tech notes and bug fixes / 技術的な知見とバグ回避ガイド。
+2. **Toolbox**: 实用 IT 小工具 / Useful IT tools / 便利なITツール。
+3. **Journey to 37**: 全栈转型 (Go/Docker) 与语言提升记录 / Full-stack transition and language learning / フルスタックへの転向と語学学習の記録。
+
+---
 
 *“Debug 你的生活，和 Debug 代码一样重要。”*
+*“Debugging your life is just as important as debugging your code.”*
+*“人生のデバッグは、コードのデバッグと同じくらい重要です。”*
