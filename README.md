@@ -16,7 +16,11 @@
 
 ## 🛠 我正在建设的内容 / What I'm Building / 現在取り組んでいること
 1. **Daily Insights**: 技术心得与 Bug 避坑指南 / Tech notes and bug fixes / 技術的な知見とバグ回避ガイド。
-2. **Toolbox**: 实用 IT 小工具 / Useful IT tools / 便利なITツール。
+2. **Toolbox**:
+    - **[Anti-SASE Controller](https://github.com/592837154/diedai20240427/tree/2026-04-24/%E5%B7%A5%E5%85%B7/%E5%85%B3%E9%97%ADSASE)**: 
+        - **中文**: 使用 Go 编写的自动化工具，用于管理 SASE 进程，平衡办公合规与个人隐私。
+        - **English**: A Go-based automation tool for SASE process management, balancing corporate compliance with personal privacy.
+        - **日本語**: Go で開発された SASE プロセス管理自動化ツール。業務上のコンプライアンスと個人のプライバシーを両立。
 3. **Journey to 37**: 全栈转型 (Go/Docker) 与语言提升记录 / Full-stack transition and language learning / フルスタックへの転向と語学学習の記録。
 
 ---
