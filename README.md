@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm 朱凯 (Zhu Kai) 👋
 
-<!--
-**592837154/592837154** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 关于我 (The Great Return)
+- **资深前端工程师**：拥有 8 年实战经验，深耕前端领域。
+- **现状**：自 2025 年后期起正式回归 GitHub，开启“数字资产复活计划”。
+- **目标**：正在向全栈架构师转型，并计划在 37 岁时开启国际化职业生涯。
 
-Here are some ideas to get you started:
+## 📖 消失的三年 (The "Lost Years" 2022-2024)
+我的 GitHub 贡献墙曾一度变暗，但这并不是因为我停止了编码，而是因为一个“有趣的 Bug”：我不小心将 `github.com` 的官方邮件域名拉入了黑名单，导致长达三年的登录困境。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+2025 年，我通过 **AI (Gemini) 图像分析** 深度排查邮件设置，终于找回了这个珍贵的大号。这个故事证明了作为一名工程师，我拥有**极强的排障韧性**和**永不言弃的精神**。
+
+## 🛠 我正在建设的内容
+- **Daily Insights**：记录每日技术心得、Bug 避坑指南和行业思考。
+- **Toolbox**：分享在工作中积累的实用 IT 小工具。
+- **Journey to 37**：记录转型全栈（Go/Docker）及英语提升的每一步。
+
+*“Debug 你的生活，和 Debug 代码一样重要。”*
